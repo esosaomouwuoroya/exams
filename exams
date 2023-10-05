@@ -1,0 +1,10 @@
+
+#esosa
+print("welcome to tempeture alert system")
+int(input("please enter a tempeture value in degrees"))
+tempeturevalue = 15
+if tempeturevalue = <20 :
+           print("too cold. turn up heating")
+ else :20>=24
+    print("tempeture is just right.")
+    exams.git
