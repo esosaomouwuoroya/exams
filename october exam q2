@@ -1,0 +1,4 @@
+vip = ("enter number of tickets sold")
+regular = ("enter number of tickets sold")
+budget = ("enter number of tickets sold")
+def vip(150)
