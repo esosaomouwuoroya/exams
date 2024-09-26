@@ -1,0 +1,15 @@
+#question 1 (B)
+#esosa
+
+import random
+user = input("pick rock paper or scissors")
+print("you chose:",user,)
+computer_options = ["rock","paper","scissors"]
+
+
+computer_choice = computer_options [random.randint(0,2)]
+print("computer chose:",computer_choice,)
+if user :
+    print("computer wins")
+else:
+    print("user wins")
