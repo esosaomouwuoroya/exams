@@ -1,0 +1,18 @@
+#question 1 (a)
+#esosa
+
+#length = 6
+#width = 4
+print("this program can find the perimeter or area of a quadrilateral")#question i
+length = float(input("please enter the length"))#q iii
+width = float(input("please enter the width"))# q iii
+
+name = input("please enter your name")#question ii 
+choice = input("do you want to find the (p)erimeter or (a)rea?")
+if choice =="p":
+   print((2*length) + (2*width))#qvi
+   #print(length + length + width +width)
+elif choice == "a":
+    print(length*width)
+print("a quadrilateral with a length of",length,"and a width of",width,"h as an area of:")#q v
+print("thank you for using the program",name,)   #question ii
